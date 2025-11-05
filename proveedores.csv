@@ -1,0 +1,5 @@
+proveedor_id,nombre,cuit,pais,sitio_web,email
+001,YPF S.A.,30-54668997-9,AR,https://www.ypf.com,contacto@ypf.com
+002,Telecom Argentina,30-63945373-8,AR,https://www.telecom.com.ar,info@telecom.com.ar
+003,Arcor SAIC,30-50279317-5,AR,https://www.arcor.com,contacto@arcor.com
+004,Proveedor Test SRL,30-12345678-9,AR,https://www.ejemplo-no-existe.com,test@test.com

@@ -1,0 +1,198 @@
+[
+  {
+    "timestamp": "2025-11-04T21:32:53.129449",
+    "proveedor": {
+      "id": "001",
+      "nombre": "YPF S.A.",
+      "cuit": "30-54668997-9",
+      "sitio_web": "https://www.ypf.com"
+    },
+    "auditoria_esg": {
+      "governance": {
+        "criterio": "CUIT válido",
+        "resultado": "PASS",
+        "score": 100,
+        "detalles": "CUIT 30-54668997-9 verificado correctamente",
+        "alertas": []
+      },
+      "social": {
+        "criterio": "Certificaciones laborales",
+        "resultado": "FAIL",
+        "score": 0.0,
+        "certificaciones_encontradas": [],
+        "detalles": "No se encontraron certificaciones laborales",
+        "alertas": [
+          "Sin certificaciones laborales verificables"
+        ]
+      },
+      "environmental": {
+        "criterio": "Reporte de sostenibilidad publicado",
+        "resultado": "PARTIAL",
+        "score": 50,
+        "reportes_encontrados": [],
+        "detalles": "Información limitada de sostenibilidad encontrada",
+        "alertas": [
+          "Reporte de sostenibilidad no claramente publicado"
+        ]
+      }
+    },
+    "score_total": 55,
+    "conformidad": false,
+    "no_conformidades": [
+      "Sin certificaciones laborales verificables",
+      "Reporte de sostenibilidad no claramente publicado"
+    ],
+    "tareas_proveedor": [
+      "Obtener certificaciones laborales faltantes (ISO 45001, SA8000)",
+      "Publicar reporte de sostenibilidad en sitio web corporativo"
+    ]
+  },
+  {
+    "timestamp": "2025-11-04T21:32:56.204465",
+    "proveedor": {
+      "id": "002",
+      "nombre": "Telecom Argentina",
+      "cuit": "30-63945373-8",
+      "sitio_web": "https://www.telecom.com.ar"
+    },
+    "auditoria_esg": {
+      "governance": {
+        "criterio": "CUIT válido",
+        "resultado": "PASS",
+        "score": 100,
+        "detalles": "CUIT 30-63945373-8 verificado correctamente",
+        "alertas": []
+      },
+      "social": {
+        "criterio": "Certificaciones laborales",
+        "resultado": "FAIL",
+        "score": 0.0,
+        "certificaciones_encontradas": [],
+        "detalles": "No se encontraron certificaciones laborales",
+        "alertas": [
+          "Sin certificaciones laborales verificables"
+        ]
+      },
+      "environmental": {
+        "criterio": "Reporte de sostenibilidad publicado",
+        "resultado": "PARTIAL",
+        "score": 50,
+        "reportes_encontrados": [],
+        "detalles": "Información limitada de sostenibilidad encontrada",
+        "alertas": [
+          "Reporte de sostenibilidad no claramente publicado"
+        ]
+      }
+    },
+    "score_total": 55,
+    "conformidad": false,
+    "no_conformidades": [
+      "Sin certificaciones laborales verificables",
+      "Reporte de sostenibilidad no claramente publicado"
+    ],
+    "tareas_proveedor": [
+      "Obtener certificaciones laborales faltantes (ISO 45001, SA8000)",
+      "Publicar reporte de sostenibilidad en sitio web corporativo"
+    ]
+  },
+  {
+    "timestamp": "2025-11-04T21:33:17.214282",
+    "proveedor": {
+      "id": "003",
+      "nombre": "Arcor SAIC",
+      "cuit": "30-50279317-5",
+      "sitio_web": "https://www.arcor.com"
+    },
+    "auditoria_esg": {
+      "governance": {
+        "criterio": "CUIT válido",
+        "resultado": "PASS",
+        "score": 100,
+        "detalles": "CUIT 30-50279317-5 verificado correctamente",
+        "alertas": []
+      },
+      "social": {
+        "criterio": "Certificaciones laborales",
+        "resultado": "FAIL",
+        "score": 0.0,
+        "certificaciones_encontradas": [],
+        "detalles": "No se encontraron certificaciones laborales",
+        "alertas": [
+          "Sin certificaciones laborales verificables"
+        ]
+      },
+      "environmental": {
+        "criterio": "Reporte de sostenibilidad publicado",
+        "resultado": "PARTIAL",
+        "score": 50,
+        "reportes_encontrados": [],
+        "detalles": "Información limitada de sostenibilidad encontrada",
+        "alertas": [
+          "Reporte de sostenibilidad no claramente publicado"
+        ]
+      }
+    },
+    "score_total": 55,
+    "conformidad": false,
+    "no_conformidades": [
+      "Sin certificaciones laborales verificables",
+      "Reporte de sostenibilidad no claramente publicado"
+    ],
+    "tareas_proveedor": [
+      "Obtener certificaciones laborales faltantes (ISO 45001, SA8000)",
+      "Publicar reporte de sostenibilidad en sitio web corporativo"
+    ]
+  },
+  {
+    "timestamp": "2025-11-04T21:33:17.256714",
+    "proveedor": {
+      "id": "004",
+      "nombre": "Proveedor Test SRL",
+      "cuit": "30-12345678-9",
+      "sitio_web": "https://www.ejemplo-no-existe.com"
+    },
+    "auditoria_esg": {
+      "governance": {
+        "criterio": "CUIT válido",
+        "resultado": "FAIL",
+        "score": 0,
+        "detalles": "CUIT inválido: dígito verificador incorrecto",
+        "alertas": [
+          "Dígito verificador no coincide"
+        ]
+      },
+      "social": {
+        "criterio": "Certificaciones laborales",
+        "resultado": "FAIL",
+        "score": 0.0,
+        "certificaciones_encontradas": [],
+        "detalles": "No se encontraron certificaciones laborales",
+        "alertas": [
+          "Sin certificaciones laborales verificables"
+        ]
+      },
+      "environmental": {
+        "criterio": "Reporte de sostenibilidad publicado",
+        "resultado": "FAIL",
+        "score": 0,
+        "reportes_encontrados": [],
+        "detalles": "No se encontró reporte de sostenibilidad publicado",
+        "alertas": [
+          "Sin reporte de sostenibilidad verificable"
+        ]
+      }
+    },
+    "score_total": 0,
+    "conformidad": false,
+    "no_conformidades": [
+      "Dígito verificador no coincide",
+      "Sin certificaciones laborales verificables",
+      "Sin reporte de sostenibilidad verificable"
+    ],
+    "tareas_proveedor": [
+      "Verificar y corregir CUIT registrado",
+      "Obtener certificaciones laborales faltantes (ISO 45001, SA8000)",
+      "Publicar reporte de sostenibilidad en sitio web corporativo"
+    ]
+  }
+]
