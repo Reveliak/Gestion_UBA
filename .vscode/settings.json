@@ -1,0 +1,9 @@
+{
+    "python.defaultInterpreterPath": "/usr/bin/python3",
+    "code-runner.executorMap": {
+        "python": "python3 -u"
+    },
+    "terminal.integrated.env.osx": {
+        "PATH": "/usr/bin:${env:PATH}"
+    }
+}

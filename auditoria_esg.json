@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-11-04T21:32:53.129449",
+    "timestamp": "2025-11-04T21:55:32.421609",
     "proveedor": {
       "id": "001",
       "nombre": "YPF S.A.",
@@ -48,7 +48,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-04T21:32:56.204465",
+    "timestamp": "2025-11-04T21:55:36.574824",
     "proveedor": {
       "id": "002",
       "nombre": "Telecom Argentina",
@@ -96,7 +96,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-04T21:33:17.214282",
+    "timestamp": "2025-11-04T21:55:58.005390",
     "proveedor": {
       "id": "003",
       "nombre": "Arcor SAIC",
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "timestamp": "2025-11-04T21:33:17.256714",
+    "timestamp": "2025-11-04T21:55:58.034656",
     "proveedor": {
       "id": "004",
       "nombre": "Proveedor Test SRL",
